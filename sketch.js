@@ -40,7 +40,7 @@ function draw() {
   box(100);
   rotateX(frameCount * -0.01);
   rotateY(frameCount * -0.01);
-  box(150);
+  box(100);
  
  
 
